@@ -44,5 +44,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or inquiries, you can reach me through the contact form on my portfolio website or by emailing me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or inquiries, you can reach me through the contact form on my portfolio website or by emailing me at [ganehs2df@gmail.com](mailto:ganesh2df@gmail.com).
 
